@@ -26,12 +26,9 @@ Key Features**
 
 ✅ Scalable & Customizable – Flexible architecture for future enhancements.
 
-Installation & Setup
-1. Clone the Repository
-   git clone https://github.com/your-username/crud-web-app.git
-cd crud-web-app
+ScreenShots
+![Screenshot 2025-02-18 221258](https://github.com/user-attachments/assets/d100dd5e-e7c0-4827-976c-57f0e32d4e1c)
+![Screenshot 2025-02-18 221417](https://github.com/user-attachments/assets/244aba73-0735-48de-b1de-75943fee9460)
 
-2. Install Dependencies
-npm install
-3. Start the Application
-   npm start
+
+
