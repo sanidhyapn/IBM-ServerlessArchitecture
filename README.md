@@ -1,4 +1,4 @@
-**Overview **
+Overview 
 
 This project is a CRUD (Create, Read, Update, Delete) web application built using Refine, a React meta-framework optimized for admin panels, dashboards, and internal tools.
 
@@ -11,8 +11,8 @@ It demonstrates the powerful capabilities of Refine, such as:
 🔑 Authentication & Authorization Support
 💡 Auto-generated CRUD UIs
 
-Key Features**
-**
+Key Features
+
 
 ✅ Dynamic CRUD Operations – Seamlessly create, read, update, and delete records.
 
